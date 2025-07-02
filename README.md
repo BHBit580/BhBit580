@@ -4,21 +4,6 @@
 
 With hands-on experience in mobile game development and internships at studios like **Audify**, **Flying Ant Studios**, and more, I've worked on successful published titles such as **Bus Jam (100K+ installs)** and **Tile Match (50K+ installs)**. I love diving deep into systems and bringing ideas to life with great player feel.
 
----
-
-## 💼 Key Expertise:
-
-🛠️ **Game Development:**  
-From puzzle games to shooters, I build polished, modular, and optimized games using Unity, and now exploring Unreal & Roblox too.
-
-🧠 **Programming & Architecture:**  
-Strong grip over **C#**, clean code, **State Machines**, **ScriptableObjects**, and performance optimization — especially for WebGL and mobile.
-
-🎨 **Creative Systems & UI:**  
-Built modular UI systems, dynamic water pipes, cinematic camera shots, and engaging feedback using **DOTween**, **FEEL**, and **post-processing**.
-
----
-
 ## 🌟 What Sets Me Apart:
 
 🚀 **Fast Learner & Builder:**  
